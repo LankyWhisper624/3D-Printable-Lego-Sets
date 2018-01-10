@@ -1,0 +1,62 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+2780 - "Technic Pin with Friction and Slots" by Guy Vivan [guyvivan]
+3020 - "Plate 2 x 4" by James Jessiman
+3022 - "Plate 2 x 2" by James Jessiman
+3034 - "Plate 2 x 8" by James Jessiman
+30414 - "Brick 1 x 4 with Studs on Side" by R. M. Rodinsky [dublar]
+33299 - "Technic Beam 3 x 0.5 Liftarm with Boss and Pin" by Orion Pobursky [OrionP]
+3680 - "Turntable 2 x 2 Plate Base" by James Jessiman
+3942c - "Cone 2 x 2 x 2 with Hollow Stud Open" by Michael Heidemann [mikeheide]
+50951 - "Tyre 6/ 30 x 11" by Michael Heidemann [mikeheide]
+61409 - "Slope Brick 18 2 x 1 x 0.667 Grille" by Tim Gould [timgould]
+93274 - "Bracket 1 x 2 - 2 x 4" by Magnus Forsberg [MagFors]
+43093 - "Technic Axle Pin with Friction" by Donald Sutter [technog]
+2419 - "Plate 3 x 6 without Corners" by James Jessiman
+3003 - "Brick 2 x 2" by James Jessiman
+3005 - "Brick 1 x 1" by James Jessiman
+3010 - "Brick 1 x 4" by James Jessiman
+3023 - "Plate 1 x 2" by James Jessiman
+3024 - "Plate 1 x 1" by James Jessiman
+3040b - "Slope Brick 45 2 x 1" by James Jessiman
+3622 - "Brick 1 x 3" by James Jessiman
+3623 - "Plate 1 x 3" by James Jessiman
+3665 - "Slope Brick 45 2 x 1 Inverted" by James Jessiman
+3832 - "Plate 2 x 10" by James Jessiman
+41767 - "Wedge 4 x 2 Right" by Donald Sutter [technog]
+41768 - "Wedge 4 x 2 Left" by Donald Sutter [technog]
+41769 - "Wing 2 x 4 Right" by Marc Schickele [samrotule]
+41770 - "Wing 2 x 4 Left" by Marc Schickele [samrotule]
+50304 - "Wing 3 x 8 Right" by Paul Izquierdo Rojas [pir]
+50305 - "Wing 3 x 8 Left" by Paul Izquierdo Rojas [pir]
+50950 - "Slope Brick Curved 3 x 1" by Orion Pobursky [OrionP]
+3068b - "Tile 2 x 2 with Groove" by Damien Guichard [BrickCaster]
+3710 - "Plate 1 x 4" by James Jessiman
+3794b - "Plate 1 x 2 with Groove with 1 Centre Stud" by Magnus Forsberg [MagFors]
+3795 - "Plate 2 x 6" by James Jessiman
+4162 - "Tile 1 x 8" by James Jessiman
+43722 - "Wing 2 x 3 Right" by Donald Sutter [technog]
+43723 - "Wing 2 x 3 Left" by Donald Sutter [technog]
+44728 - "Bracket 1 x 2 - 2 x 2" by Brent Jackson [bjackson]
+54200 - "Slope Brick 31 1 x 1 x 0.667" by Orion Pobursky [OrionP]
+30602 - "Slope Brick Curved Top 2 x 2 x 1" by Chris Dee [cwdee]
+2476a - "Plate 2 x 2 with Pin Type 1" by James Jessiman
+3660 - "Slope Brick 45 2 x 2 Inverted" by James Jessiman
+3679 - "Turntable 2 x 2 Plate Top" by James Jessiman
+3700 - "Technic Brick 1 x 2 with Hole" by James Jessiman
+42610 - "Wheel Rim 8 x 11.2 with Centre Groove" by Michael Heidemann [mikeheide]
+4477 - "Plate 1 x 10" by James Jessiman
+6231 - "Panel 1 x 1 x 1 Corner with Rounded Corners" by James Jessiman
+85984 - "Slope Brick 31 1 x 2 x 0.667" by Magnus Forsberg [MagFors]
+2412b - "Tile 1 x 2 Grille with Groove" by Guy Vivan [guyvivan]
+3021 - "Plate 2 x 3" by James Jessiman
+3069b - "Tile 1 x 2 with Groove" by Santeri Piippo [arezey]
+32000 - "Technic Brick 1 x 2 with Holes" by James Jessiman
+3941 - "Brick 2 x 2 Round" by James Jessiman
+4589 - "Cone 1 x 1" by James Jessiman
+2431 - "Tile 1 x 4 with Groove" by Santeri Piippo [arezey]

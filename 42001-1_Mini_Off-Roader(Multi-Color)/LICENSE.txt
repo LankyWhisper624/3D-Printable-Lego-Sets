@@ -1,0 +1,41 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+11478 - "Technic Beam 5 x 0.5 Liftarm with Axle Holes at Both Ends" by Max Martin Richter [MMR1988]
+2780 - "Technic Pin with Friction and Slots" by Guy Vivan [guyvivan]
+32039 - "Technic Connector (Axle/Bush)" by Guy Vivan [guyvivan]
+32184 - "Technic Cross Block 1 x 3 (Axle/Pin/Axle)" by Jeff Boen
+32192 - "Technic Angle Connector #4 (135 degree)" by Lutz Uhlmann [El-Lutzo]
+32449 - "Technic Beam 4 x 0.5 Liftarm" by Guy Vivan [guyvivan]
+3705 - "Technic Axle 4" by James Jessiman
+56891 - "Tyre 18/ 56 x 17 Off-Road with Offset Centre" by Magnus Forsberg [MagFors]
+6628 - "Technic Pin Towball with Friction" by William Howard [WilliamH]
+87082 - "Technic Pin Long with Pin Hole" by Philippe Hurbain [Philo]
+6558 - "Technic Pin Long with Friction and Slot" by James Jessiman
+32062 - "Technic Axle 2 Notched" by Steve Bliss [sbliss]
+85543 - "Rubber Belt Round 15 / 1.6" by Philippe Hurbain [Philo]
+11946 - "Technic Panel Fairing Smooth #21 (Thin Short)" by Philippe Hurbain [Philo]
+11947 - "Technic Panel Fairing Smooth #22 (Thin Short)" by Philippe Hurbain [Philo]
+41669 - "Technic Tooth 1 x 3 with Axlehole" by Guy Vivan [guyvivan]
+6632 - "Technic Beam 3 x 0.5 Liftarm" by Guy Vivan [guyvivan]
+6141 - "Plate 1 x 1 Round" by James Jessiman
+32073 - "Technic Axle 5" by William Howard [WilliamH]
+32123b - "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced" by J.C. Tchang [tchang]
+3713 - "Technic Bush with Two Flanges" by James Jessiman
+4274 - "Technic Pin 1/2" by James Jessiman
+44294 - "Technic Axle 7" by Dan Boger [dan]
+4519 - "Technic Axle 3" by James Jessiman
+55981 - "Wheel Rim 14 x 18 with Holes on Both Sides (Needs Work)" by Michael Heidemann [mikeheide]
+60483 - "Technic Beam 2 Liftarm" by Philippe Hurbain [Philo]
+10197 - "Technic Axle and Pin Connector Hub with 2 Axles at 90 Degrees" by Rolf Osterthun [Rolf]
+32009 - "Technic Beam 3 x 3.8 x 7 Liftarm Bent 45 Double" by Steve Bliss [sbliss]
+32140 - "Technic Beam 2 x 4 Liftarm Bent 90" by Guy Vivan [guyvivan]
+32316 - "Technic Beam 5" by Philippe Hurbain [Philo]
+41677 - "Technic Beam 2 x 0.5 Liftarm" by Orion Pobursky [OrionP]
+42003 - "Technic Cross Block 1 x 3 (Axle/Pin/Pin)" by Donald Sutter [technog]
+6536 - "Technic Cross Block 1 x 2 (Axle/Pin)" by James Jessiman
+87083 - "Technic Axle 4 with Stop" by Philippe Hurbain [Philo]

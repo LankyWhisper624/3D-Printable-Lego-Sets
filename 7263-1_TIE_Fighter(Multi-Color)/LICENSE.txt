@@ -1,0 +1,54 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+2555 - "Tile 1 x 1 with Clip" by James Jessiman
+3029 - "Plate 4 x 12" by James Jessiman
+3031 - "Plate 4 x 4" by James Jessiman
+30355 - "Wing 6 x 12 Left" by John Van Zwieten [jvan]
+30356 - "Wing 6 x 12 Right" by John Van Zwieten [jvan]
+30408 - "Minifig Helmet Stormtrooper" by Alex Taylor [anathema]
+3044b - "Slope Brick 45 2 x 1 Double" by Orion Pobursky [OrionP]
+3623 - "Plate 1 x 3" by James Jessiman
+3660 - "Slope Brick 45 2 x 2 Inverted" by James Jessiman
+3701 - "Technic Brick 1 x 4 with Holes" by James Jessiman
+3938 - "Hinge 1 x 2 Top" by James Jessiman
+43722 - "Wing 2 x 3 Right" by Donald Sutter [technog]
+43723 - "Wing 2 x 3 Left" by Donald Sutter [technog]
+6179 - "Tile 4 x 4 with Studs on Edge" by James Jessiman
+3815c01 - "Minifig Hips and Legs" by Steve Bliss [sbliss]
+973c00 - "Minifig Torso / Arms / Yellow Hands" by David Hubner [hubnedav]
+2412b - "Tile 1 x 2 Grille with Groove" by Guy Vivan [guyvivan]
+2419 - "Plate 3 x 6 without Corners" by James Jessiman
+3003 - "Brick 2 x 2" by James Jessiman
+3020 - "Plate 2 x 4" by James Jessiman
+3022 - "Plate 2 x 2" by James Jessiman
+3023 - "Plate 1 x 2" by James Jessiman
+3040b - "Slope Brick 45 2 x 1" by James Jessiman
+4477 - "Plate 1 x 10" by James Jessiman
+3794a - "Plate 1 x 2 without Groove with 1 Centre Stud" by James Jessiman
+3004 - "Brick 1 x 2" by James Jessiman
+48336 - "Plate 1 x 2 with Handle Type 2" by Guy Vivan [guyvivan]
+4740 - "Dish 2 x 2 Inverted" by James Jessiman
+6141 - "Plate 1 x 1 Round" by James Jessiman
+30366 - "Windscreen 3 x 6 x 5 Canopy" by Guy Vivan [guyvivan]
+3626b - "Minifig Head with Hollow Stud" by Tore Eriksson [Tore_Eriksson]
+3002 - "Brick 2 x 3" by James Jessiman
+30283 - "Slope Brick 45 6 x 4 Double Inverted with Open Center" by Ronald Scott Moody [rmoody]
+3039 - "Slope Brick 45 2 x 2" by James Jessiman
+3049b - "Slope Brick 45 1 x 2 Double / Inverted" by James Jessiman
+3069b - "Tile 1 x 2 with Groove" by Santeri Piippo [arezey]
+3747b - "Slope Brick 33 3 x 2 Inverted with Ribs between Studs" by Max Martin Richter [MMR1988]
+3960 - "Dish 4 x 4 Inverted" by James Jessiman
+4150 - "Tile 2 x 2 Round with Cross Underside Stud" by James Jessiman
+4274 - "Technic Pin 1/2" by James Jessiman
+2357 - "Brick 2 x 2 Corner" by James Jessiman
+30000 - "Brick 2 x 2 with Pins and Axlehole" by James Jessiman
+3021 - "Plate 2 x 3" by James Jessiman
+30373 - "Slope Brick 65 6 x 6 x 2 Inverted Quadruple" by Franklin W. Cain [fwcain]
+3046 - "Slope Brick 45 2 x 2 Double Concave" by James Jessiman
+3710 - "Plate 1 x 4" by James Jessiman
+3937 - "Hinge 1 x 2 Base" by James Jessiman

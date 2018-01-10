@@ -1,0 +1,155 @@
+All stl files in this archive were converted by LDView from official LDraw Library http://www.ldraw.org/
+
+Files are licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/2.0/
+
+Attribution:
+
+11458 - "Plate 1 x 2 with Offset Peghole" by Magnus Forsberg [MagFors]
+11477 - "Slope Brick Curved 2 x 1" by Owen Burgoyne [C3POwen]
+11478 - "Technic Beam 5 x 0.5 Liftarm with Axle Holes at Both Ends" by Max Martin Richter [MMR1988]
+85970 - "Slope Brick Curved 1 x 8 with Plate 1 x 2" by Joerg Sommerer [Brickaneer]
+15068 - "Slope Brick Curved 2 x 2 x 0.667" by Owen Burgoyne [C3POwen]
+15573 - "Plate 1 x 2 with Groove with 1 Centre Stud, without Understud" by Magnus Forsberg [MagFors]
+2420 - "Plate 2 x 2 Corner" by James Jessiman
+2431 - "Tile 1 x 4 with Groove" by Santeri Piippo [arezey]
+2445 - "Plate 2 x 12" by James Jessiman
+2653 - "Brick 1 x 4 with Groove" by James Jessiman
+2714 - "Bar 7.6L with Stop" by Philippe Hurbain [Philo]
+2780 - "Technic Pin with Friction and Slots" by Guy Vivan [guyvivan]
+2877 - "Brick 1 x 2 with Grille" by James Jessiman
+3010 - "Brick 1 x 4" by James Jessiman
+3020 - "Plate 2 x 4" by James Jessiman
+3023 - "Plate 1 x 2" by James Jessiman
+3024 - "Plate 1 x 1" by James Jessiman
+3031 - "Plate 4 x 4" by James Jessiman
+30355 - "Wing 6 x 12 Left" by John Van Zwieten [jvan]
+30356 - "Wing 6 x 12 Right" by John Van Zwieten [jvan]
+3040b - "Slope Brick 45 2 x 1" by James Jessiman
+30552 - "Hinge Arm Locking with Single Finger and Axlehole" by Franklin W. Cain [fwcain]
+3069b - "Tile 1 x 2 with Groove" by Santeri Piippo [arezey]
+32000 - "Technic Brick 1 x 2 with Holes" by James Jessiman
+32028 - "Plate 1 x 2 with Door Rail" by Remco Braak
+32034 - "Technic Angle Connector #2 (180 degree)" by Lutz Uhlmann [El-Lutzo]
+32039 - "Technic Connector (Axle/Bush)" by Guy Vivan [guyvivan]
+32072 - "Technic Gear 4 Knob" by Guy Vivan [guyvivan]
+32316 - "Technic Beam 5" by Philippe Hurbain [Philo]
+3297 - "Slope Brick 33 3 x 4" by James Jessiman
+3298 - "Slope Brick 33 3 x 2" by James Jessiman
+3460 - "Plate 1 x 8" by James Jessiman
+3666 - "Plate 1 x 6" by James Jessiman
+3676 - "Slope Brick 45 2 x 2 Inverted Double Convex" by James Jessiman
+3701 - "Technic Brick 1 x 4 with Holes" by James Jessiman
+3707 - "Technic Axle 8" by James Jessiman
+3710 - "Plate 1 x 4" by James Jessiman
+3737 - "Technic Axle 10" by James Jessiman
+3941 - "Brick 2 x 2 Round" by James Jessiman
+3958 - "Plate 6 x 6" by James Jessiman
+4006 - "Minifig Tool Spanner/Screwdriver" by John Van Zwieten [jvan]
+43712 - "Wedge 6 x 4 Triple Curved" by Guy Vivan [guyvivan]
+43713 - "Wedge 6 x 4 Triple Curved Inverted" by John Riley [jriley]
+43719 - "Wing 4 x 4 with 2 x 2 Cutout" by John Riley [jriley]
+43722 - "Wing 2 x 3 Right" by Donald Sutter [technog]
+43723 - "Wing 2 x 3 Left" by Donald Sutter [technog]
+44675 - "Slope Brick Curved Top 2 x 2 x 1 with Dimples" by Guy Vivan [guyvivan]
+4477 - "Plate 1 x 10" by James Jessiman
+47397 - "Wing 3 x 12 Left" by Donald Sutter [technog]
+47398 - "Wing 3 x 12 Right" by Donald Sutter [technog]
+4871 - "Slope Brick 45 4 x 2 Double Inverted with Open Centre" by James Jessiman
+55982 - "Wheel Rim 14 x 18 with Axlehole" by Philippe Hurbain [Philo]
+59443 - "Technic Axle Joiner Inline Smooth" by Philippe Hurbain [Philo]
+60219 - "Slope Brick 45 6 x 4 Double Inverted with Centre Holes" by Willy Tschager [Holly-Wood]
+60479 - "Plate 1 x 12" by Philippe Hurbain [Philo]
+62462 - "Technic Pin Joiner Round with Slot" by Philippe Hurbain [Philo]
+63864 - "Tile 1 x 3 with Groove" by Tim Gould [timgould]
+6636 - "Tile 1 x 6" by James Jessiman
+2429c01 - "Hinge Plate 1 x 4 (Complete)" by Chris Dee [cwdee]
+85984 - "Slope Brick 31 1 x 2 x 0.667" by Magnus Forsberg [MagFors]
+87079 - "Tile 2 x 4 with Groove" by Tim Gould [timgould]
+87087 - "Brick 1 x 1 with Stud on 1 Side" by James Shields [lostcarpark]
+88930 - "Slope Brick Curved 2 x 4 with Underside Studs" by Magnus Forsberg [MagFors]
+92738 - "Minifig Gun Small Blaster with Telescopic Sight" by Philippe Hurbain [Philo]
+93273 - "Slope Brick Curved 4 x 1 Double" by Magnus Forsberg [MagFors]
+99206 - "Plate 2 x 2 x 0.667 with Two Studs On Side and Two Raised" by J.C. Tchang [tchang]
+4274 - "Technic Pin 1/2" by James Jessiman
+43093 - "Technic Axle Pin with Friction" by Donald Sutter [technog]
+47457 - "Slope Brick Curved 2 x 2 x 2/3 Triple with Two Top Studs" by Edwin Pilobello [gypsy_fly]
+6632 - "Technic Beam 3 x 0.5 Liftarm" by Guy Vivan [guyvivan]
+85545 - "Rubber Belt Round 26 / 1.6" by Philippe Hurbain [Philo]
+32062 - "Technic Axle 2 Notched" by Steve Bliss [sbliss]
+32530 - "Technic Tile 1 x 2 with Two Holes" by Michael Heidemann [mikeheide]
+3623 - "Plate 1 x 3" by James Jessiman
+3713 - "Technic Bush with Two Flanges" by James Jessiman
+2432 - "Tile 1 x 2 with Handle" by James Jessiman
+4592c01 - "Hinge Control Stick and Base (Complete)" by Franklin W. Cain [fwcain]
+3035 - "Plate 4 x 8" by James Jessiman
+4865a - "Panel 1 x 2 x 1 with Square Corners" by James Jessiman
+6020 - "Bar 7 x 3 with Double Clips" by James Jessiman
+60897 - "Plate 1 x 1 with Clip Vertical (Thick C-Clip)" by Owen Burgoyne [C3POwen]
+3022 - "Plate 2 x 2" by James Jessiman
+11211 - "Brick 1 x 2 with Two Studs on One Side" by Magnus Forsberg [MagFors]
+32002 - "Technic Pin 3/4" by James Jessiman
+32198 - "Technic Gear 20 Tooth Bevel" by Marc Klein [marckl]
+6232 - "Brick 2 x 2 with Pin and Axlehole" by James Jessiman
+6541 - "Technic Brick 1 x 1 with Hole" by James Jessiman
+6589 - "Technic Gear 12 Tooth Bevel" by Jeroen Ottens
+3005 - "Brick 1 x 1" by James Jessiman
+3068b - "Tile 2 x 2 with Groove" by Damien Guichard [BrickCaster]
+3795 - "Plate 2 x 6" by James Jessiman
+50304 - "Wing 3 x 8 Right" by Paul Izquierdo Rojas [pir]
+50305 - "Wing 3 x 8 Left" by Paul Izquierdo Rojas [pir]
+96874 - "Brick Separator with Top Axle" by Philippe Hurbain [Philo]
+3001 - "Brick 2 x 4" by James Jessiman
+87580 - "Plate 2 x 2 with Groove with 1 Centre Stud" by Joerg Sommerer [Brickaneer]
+15303 - "Bar 1 x 8 with Round End" by Philippe Hurbain [Philo]
+6141 - "Plate 1 x 1 Round" by James Jessiman
+59900 - "Cone 1 x 1 with Stop" by Michael Heidemann [mikeheide]
+2654 - "Dish 2 x 2" by James Jessiman
+98138 - "Tile 1 x 1 Round with Groove" by Magnus Forsberg [MagFors]
+3003 - "Brick 2 x 2" by James Jessiman
+14769 - "Tile 2 x 2 Round with Round Underside Stud" by Max Martin Richter [MMR1988]
+18671 - "Bracket 5 x 2 x 1.333" by Owen Burgoyne [C3POwen]
+18677 - "Plate 1 x 2 with Offset Peghole on Underside" by Owen Burgoyne [C3POwen]
+2540 - "Plate 1 x 2 with Handle" by James Jessiman
+2921 - "Brick 1 x 1 with Handle" by James Jessiman
+3176 - "Plate 3 x 2 with Hole" by James Jessiman
+32064a - "Technic Brick 1 x 2 with Axlehole Type 1" by Lutz Uhlmann
+32073 - "Technic Axle 5" by William Howard [WilliamH]
+32123b - "Technic Bush 1/2 Smooth with Axle Hole Semi-Reduced" by J.C. Tchang [tchang]
+32184 - "Technic Cross Block 1 x 3 (Axle/Pin/Axle)" by Jeff Boen
+32531 - "Technic Brick 4 x 6 with Open Center 2 x 4" by Marc Klein [marckl]
+3738 - "Technic Plate 2 x 8 with Holes" by James Jessiman
+4081b - "Plate 1 x 1 with Clip Light Type 2" by James Jessiman
+4345b - "Container Box 2 x 2 x 2 with Hollow Studs" by James Jessiman
+4346 - "Container Box 2 x 2 x 2 Door with Slot" by James Jessiman
+44294 - "Technic Axle 7" by Dan Boger [dan]
+87407 - "Technic Gear 20 Tooth Bevel with Peghole" by Santeri Piippo [arezey]
+92280 - "Plate 1 x 2 with Single Clip on Top" by Magnus Forsberg [MagFors]
+99781 - "Bracket 1 x 2 - 1 x 2 Down" by Tim Gould [timgould]
+15392 - "Minifig Gun Shooting Blaster Trigger" by Philippe Hurbain [Philo]
+15400 - "Spring Shooter 1 x 4 x 1 with Dark Bluish Grey Bottom" by Philippe Hurbain [Philo]
+15535 - "Tile 2 x 2 Round with Hole" by Max Martin Richter [MMR1988]
+18759 - "Slope Brick 45 3 x 1 Inverted Double with Inner Stopper Rings" by Owen Burgoyne [C3POwen]
+2639 - "Plate 4 x 4 Corner" by James Jessiman
+3021 - "Plate 2 x 3" by James Jessiman
+30414 - "Brick 1 x 4 with Studs on Side" by R. M. Rodinsky [dublar]
+30553 - "Hinge Arm Locking with Dual Finger and Axlehole" by Franklin W. Cain [fwcain]
+3622 - "Brick 1 x 3" by James Jessiman
+3639 - "Hinge Plate 2 x 4 with Articulated Joint - Male" by James Jessiman
+4032a - "Plate 2 x 2 Round with Axlehole Type 1" by James Jessiman
+4070 - "Brick 1 x 1 with Headlight" by James Jessiman
+4079 - "Minifig Seat 2 x 2" by James Jessiman
+41677 - "Technic Beam 2 x 0.5 Liftarm" by Orion Pobursky [OrionP]
+41769 - "Wing 2 x 4 Right" by Marc Schickele [samrotule]
+41770 - "Wing 2 x 4 Left" by Marc Schickele [samrotule]
+44300 - "Hinge Tile 1 x 3 Locking with Single Finger on Top" by Guy Vivan [guyvivan]
+55013 - "Technic Axle 8 with Stop" by Philippe Hurbain [Philo]
+60475b - "Brick 1 x 1 with Clip Vertical (Thick C-Clip) and Hollow Stud" by Owen Burgoyne [C3POwen]
+87083 - "Technic Axle 4 with Stop" by Philippe Hurbain [Philo]
+92946 - "Slope Plate 45 2 x 1" by Donald Sutter [technog]
+3626c - "Minifig Head with Closed Hollow Stud" by J.C. Tchang [tchang]
+2412b - "Tile 1 x 2 Grille with Groove" by Guy Vivan [guyvivan]
+32187 - "Technic Transmission Driving Ring Extension" by Marc Klein [marckl]
+50745 - "Car Mudguard 4 x 2.5 x 2" by Bernd Broich [bbroich]
+3815c01 - "Minifig Hips and Legs" by Steve Bliss [sbliss]
+973c00 - "Minifig Torso / Arms / Yellow Hands" by David Hubner [hubnedav]
